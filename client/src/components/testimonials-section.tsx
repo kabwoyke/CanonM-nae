@@ -3,24 +3,24 @@ import { Star } from "lucide-react";
 
 const testimonials = [
   {
-    name: "Sarah Kamau",
-    role: "Family Visitor",
+    name: "Amina Wanjiru",
+    role: "Family from Nairobi",
     image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&h=100&fit=face",
-    text: "Canon Mînae exceeded all our expectations! The gardens are absolutely stunning, and our kids had a blast at the children's park. The camping experience was perfect for our family getaway.",
+    text: "Canon Mînae exceeded all our expectations! The botanical gardens showcase beautiful Kenyan flora, and our children loved the playground. The nyama choma at the restaurant was exceptional.",
     rating: 5
   },
   {
-    name: "David Mwangi",
-    role: "HR Director",
+    name: "Peter Kiptoo",
+    role: "Corporate Manager from Eldoret",
     image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&h=100&fit=face",
-    text: "Our corporate retreat at Canon Mînae was transformative. The team building activities brought our staff closer together, and the natural setting provided the perfect backdrop for innovation.",
+    text: "Our team retreat from Eldoret to Canon Mînae was transformative. The team building activities in the natural Thigio environment brought our staff closer. The SGR views from Cave Hill were breathtaking.",
     rating: 5
   },
   {
-    name: "Grace Wanjiku",
-    role: "Adventure Enthusiast",
+    name: "Faith Njeri",
+    role: "Adventure Lover from Nakuru",
     image: "https://images.unsplash.com/photo-1494790108755-2616b612b17c?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&h=100&fit=face",
-    text: "The hiking trails are incredible! The guided tour to Cave Hill was an adventure of a lifetime. The staff is knowledgeable and the facilities are top-notch.",
+    text: "The motorbike racing and hiking to Cave Hill were incredible! As someone from Nakuru, I've visited many parks, but Canon Mînae's combination of adventure and natural beauty is unmatched.",
     rating: 5
   }
 ];
