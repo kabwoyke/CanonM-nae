@@ -26,10 +26,10 @@ export default function HeroSection() {
       
       <div className="relative z-10 text-center text-white max-w-4xl mx-auto px-4 fade-in">
         <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight" data-testid="text-hero-title">
-          Experience Nature's Paradise at Canon Mînae
+          Welcome to Canon Mînae Private Resort
         </h1>
         <p className="text-lg md:text-xl mb-8 text-gray-200 max-w-2xl mx-auto" data-testid="text-hero-description">
-          Discover authentic Kenyan botanical gardens, thrilling motorbike racing, traditional nyama choma, and peaceful retreats in the scenic highlands of Thigio. Your perfect African adventure awaits.
+          Experience luxury and excitement at Kenya's premier private resort. Enjoy exclusive gardens, thrilling motorbike racing, authentic cuisine, and premium accommodation in the beautiful highlands of Thigio.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <Button 
