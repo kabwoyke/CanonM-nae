@@ -46,10 +46,10 @@ export default function GallerySection() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4" data-testid="text-gallery-title">
-            Nature's Gallery
+            Resort Gallery
           </h2>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto" data-testid="text-gallery-description">
-            Immerse yourself in the beauty of Canon Mînae through our stunning collection of moments captured in nature.
+            Explore the luxury and elegance of Canon Mînae Private Resort through our exclusive collection of premium facilities and guest experiences.
           </p>
         </div>
 

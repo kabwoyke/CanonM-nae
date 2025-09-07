@@ -4,23 +4,23 @@ import { Star } from "lucide-react";
 const testimonials = [
   {
     name: "Amina Wanjiru",
-    role: "Family from Nairobi",
+    role: "Executive Guest from Nairobi",
     image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&h=100&fit=face",
-    text: "Canon Mînae exceeded all our expectations! The botanical gardens showcase beautiful Kenyan flora, and our children loved the playground. The nyama choma at the restaurant was exceptional.",
+    text: "Canon Mînae Private Resort exceeded all expectations! The exclusive facilities, premium service, and luxurious accommodations made our family getaway truly memorable. The kids club was exceptional.",
     rating: 5
   },
   {
     name: "Peter Kiptoo",
-    role: "Corporate Manager from Eldoret",
+    role: "CEO from Eldoret",
     image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&h=100&fit=face",
-    text: "Our team retreat from Eldoret to Canon Mînae was transformative. The team building activities in the natural Thigio environment brought our staff closer. The SGR views from Cave Hill were breathtaking.",
+    text: "Our executive retreat at Canon Mînae was outstanding. The private conference facilities and personalized service created the perfect environment for our leadership team. The resort exceeded our high expectations.",
     rating: 5
   },
   {
     name: "Faith Njeri",
-    role: "Adventure Lover from Nakuru",
+    role: "VIP Member from Nakuru",
     image: "https://images.unsplash.com/photo-1494790108755-2616b612b17c?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&h=100&fit=face",
-    text: "The motorbike racing and hiking to Cave Hill were incredible! As someone from Nakuru, I've visited many parks, but Canon Mînae's combination of adventure and natural beauty is unmatched.",
+    text: "The exclusive adventure experiences and luxury amenities at Canon Mînae are unparalleled. As a frequent resort guest, I can say this private resort offers the finest hospitality and premium experiences.",
     rating: 5
   }
 ];
@@ -31,10 +31,10 @@ export default function TestimonialsSection() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4" data-testid="text-testimonials-title">
-            What Our Visitors Say
+            Guest Testimonials
           </h2>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto" data-testid="text-testimonials-description">
-            Hear from families, adventure seekers, and corporate teams who have experienced the magic of Canon Mînae.
+            Discover what our distinguished guests say about their exclusive experiences at Canon Mînae Private Resort.
           </p>
         </div>
 

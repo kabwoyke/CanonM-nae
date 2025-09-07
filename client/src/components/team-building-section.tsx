@@ -41,10 +41,10 @@ export default function TeamBuildingSection() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4" data-testid="text-team-building-title">
-            Corporate Retreats & Team Building
+            Executive Retreats & Corporate Events
           </h2>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto" data-testid="text-team-building-description">
-            Transform your team dynamics with our comprehensive corporate retreat packages designed to inspire collaboration and boost morale in nature's embrace.
+            Elevate your corporate events with our exclusive retreat packages designed for executive teams. Premium facilities and personalized service in a sophisticated private resort setting.
           </p>
         </div>
 
