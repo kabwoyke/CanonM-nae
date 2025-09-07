@@ -6,45 +6,87 @@ import {
   Mountain, 
   Baby, 
   Bike, 
-  Users 
+  Users,
+  Car,
+  Home,
+  Utensils,
+  Flame,
+  ParkingCircle,
+  Zap
 } from "lucide-react";
 
 const services = [
   {
     icon: Leaf,
     title: "Beautiful Gardens",
-    description: "Stroll through our meticulously maintained botanical gardens featuring native and exotic plant species.",
-    image: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300"
+    description: "Stroll through our meticulously maintained botanical gardens featuring native Kenyan and exotic East African plant species.",
+    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300"
   },
   {
-    icon: Tent,
-    title: "Camping Site",
-    description: "Sleep under the stars in our well-equipped camping grounds with modern facilities and scenic views.",
-    image: "https://images.unsplash.com/photo-1504851149312-7a075b496cc7?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300"
+    icon: Car,
+    title: "Picnic Parking",
+    description: "Convenient and secure parking spaces specifically designed for families and groups coming for picnics.",
+    image: "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300"
   },
   {
-    icon: Mountain,
-    title: "Cave Hill Hiking",
-    description: "Explore scenic hiking trails leading to Cave Hill with guided tours and breathtaking viewpoints.",
-    image: "https://images.unsplash.com/photo-1445308394109-4ec2920981b1?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300"
+    icon: Home,
+    title: "Tent Gym",
+    description: "Unique outdoor fitness experience with modern gym equipment housed in weather-resistant tents.",
+    image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300"
   },
   {
     icon: Baby,
     title: "Children's Park",
-    description: "Safe and fun playground area designed for kids with modern equipment and secure surroundings.",
+    description: "Safe and fun playground area designed for Kenyan families with modern equipment and secure surroundings.",
     image: "https://images.unsplash.com/photo-1544551763-46a013bb70d5?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300"
   },
   {
+    icon: Zap,
+    title: "Mike Riding",
+    description: "Guided horseback riding experiences through the scenic landscapes of Thigio with trained local guides.",
+    image: "https://images.unsplash.com/photo-1553284966-19b8815c7817?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300"
+  },
+  {
     icon: Bike,
-    title: "Adventure Racing",
-    description: "Experience the thrill of motorbike racing and bike riding on our specially designed adventure tracks.",
+    title: "Motorbike Racing",
+    description: "Thrilling motorbike racing adventures on specially designed tracks through the Kenyan countryside.",
     image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300"
   },
   {
+    icon: Mountain,
+    title: "Cave Hill Hiking & SGR Guides",
+    description: "Expert-guided hiking expeditions to Cave Hill with views of the Standard Gauge Railway and Rift Valley.",
+    image: "https://images.unsplash.com/photo-1445308394109-4ec2920981b1?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300"
+  },
+  {
+    icon: Tent,
+    title: "Camping Site",
+    description: "Sleep under the African stars in our well-equipped camping grounds with modern facilities and scenic views.",
+    image: "https://images.unsplash.com/photo-1504851149312-7a075b496cc7?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300"
+  },
+  {
     icon: Users,
-    title: "Team Building",
-    description: "Professional retreat facilities and team building activities designed for corporate groups.",
+    title: "Retreat & Team Building",
+    description: "Professional retreat facilities and team building activities designed for Kenyan corporate groups and organizations.",
     image: "https://images.unsplash.com/photo-1559827260-dc66d52bef19?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300"
+  },
+  {
+    icon: ParkingCircle,
+    title: "Parking",
+    description: "Ample secure parking space for vehicles of all sizes, from matatus to private cars and tour buses.",
+    image: "https://images.unsplash.com/photo-1590674899484-d5640e854abe?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300"
+  },
+  {
+    icon: Flame,
+    title: "Grills & Kitchens",
+    description: "Modern outdoor grilling facilities and fully equipped kitchens for preparing traditional Kenyan barbecue.",
+    image: "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300"
+  },
+  {
+    icon: Utensils,
+    title: "Restaurant Service",
+    description: "Full-service restaurant featuring authentic Kenyan cuisine, nyama choma, and fresh local ingredients.",
+    image: "https://images.unsplash.com/photo-1514933651103-005eec06c04b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300"
   }
 ];
 
