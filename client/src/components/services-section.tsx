@@ -81,7 +81,7 @@ const services = [
     icon: Utensils,
     title: "Fine Dining Restaurant",
     description: "Upscale restaurant offering gourmet cuisine, premium service, and exclusive dining experiences for resort guests.",
-    image: "https://images.unsplash.com/photo-1514933651103-005eec06c04b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300"
+    image: "https://theexpatmummy.com/wp-content/uploads/2021/05/Talisman-nairobi-.jpg"
   }
 ];
 

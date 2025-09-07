@@ -17,7 +17,7 @@ export default function DiningSection() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
             <img 
-              src="https://images.unsplash.com/photo-1514933651103-005eec06c04b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600" 
+              src="https://theexpatmummy.com/wp-content/uploads/2021/05/Talisman-nairobi-.jpg" 
               alt="Garden restaurant terrace"
               className="rounded-xl shadow-lg w-full"
               data-testid="img-restaurant-terrace"
