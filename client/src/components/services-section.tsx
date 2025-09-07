@@ -20,62 +20,57 @@ const services = [
     icon: Leaf,
     title: "Private Gardens",
     description: "Stroll through our exclusively designed landscape gardens featuring curated collections and private walking paths for resort guests.",
-    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300"
+    image: "https://naiposha.com/wp-content/uploads/2023/11/Naiposha-Gardens-Home-Intro-0001.jpg"
   },
   {
     icon: Car,
     title: "VIP Parking",
     description: "Premium valet parking service with dedicated spaces for our exclusive resort guests and private event attendees.",
-    image: "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300"
+    image: "https://maishashades.co.ke/wp-content/uploads/2023/03/car-shades-in-Kenya-1.jpeg"
   },
   {
     icon: Home,
     title: "Private Fitness Pavilion",
     description: "Exclusive outdoor fitness facility with premium equipment in elegant covered pavilions for resort guest workouts.",
-    image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300"
+    image: "https://naturalmeddoc.com/wp-content/uploads/2019/06/phoenix-gyms.jpg"
   },
   {
     icon: Baby,
     title: "Kids Club",
     description: "Private children's recreation area with luxury playground equipment and supervised activities for resort families.",
-    image: "https://images.unsplash.com/photo-1544551763-46a013bb70d5?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300"
+    image: "https://okplay.in/wp-content/uploads/2021/06/Blog-1-May.jpg"
   },
   {
     icon: Zap,
     title: "Horseback Adventures",
     description: "Exclusive guided horseback riding experiences through private resort grounds with professional equestrian instructors.",
-    image: "https://images.unsplash.com/photo-1553284966-19b8815c7817?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300"
+    image: "https://www.lakenakurukenya.com/wp-content/uploads/2022/09/5f96adb97334bb2aae0d9441_2.jpg"
   },
   {
     icon: Bike,
     title: "Adventure Racing",
     description: "Exclusive motorbike racing experiences on private resort tracks designed for thrill-seeking guests and corporate events.",
-    image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300"
+    image: "https://www.motorbike-safari.com/wp-content/uploads/2020/05/Giraffe-Kenya-motorcycle-tour.jpg"
   },
   {
     icon: Mountain,
     title: "Private Hiking Expeditions",
     description: "Exclusive guided hiking adventures with personal guides offering scenic viewpoints and luxury outdoor experiences.",
-    image: "https://images.unsplash.com/photo-1445308394109-4ec2920981b1?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300"
+    image: "https://kenyawonderland.weebly.com/uploads/1/9/7/7/19771923/1169799_orig.jpg"
   },
   {
     icon: Tent,
     title: "Luxury Glamping",
     description: "Premium camping experience with upscale amenities, private sites, and concierge services for discerning guests.",
-    image: "https://images.unsplash.com/photo-1504851149312-7a075b496cc7?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300"
+    image: "https://www.kabiraugandasafaris.com/wp-content/uploads/2021/09/Kenya-Camping-Safari-1024x533.jpg"
   },
   {
     icon: Users,
     title: "Corporate Retreat Center",
     description: "Exclusive conference facilities and team building programs designed for high-end corporate events and executive retreats.",
-    image: "https://images.unsplash.com/photo-1559827260-dc66d52bef19?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300"
+    image: "https://redgiant.co.ke/wp-content/uploads/2023/08/DSSDC_7811-01-1024x683.jpg"
   },
-  {
-    icon: ParkingCircle,
-    title: "Secure Valet Parking",
-    description: "Premium parking services with valet assistance for luxury vehicles, executive cars, and private transportation.",
-    image: "https://images.unsplash.com/photo-1590674899484-d5640e854abe?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&h=300"
-  },
+
   {
     icon: Flame,
     title: "Private BBQ Pavilions",

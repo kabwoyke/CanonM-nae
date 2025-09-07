@@ -205,7 +205,7 @@ export default function ContactSection() {
                     <Phone className="text-primary text-xl mr-4 mt-1 h-5 w-5" />
                     <div>
                       <h4 className="font-semibold text-card-foreground">Phone</h4>
-                      <p className="text-muted-foreground">+254 700 123 456</p>
+                      <p className="text-muted-foreground">+254 713 461 365</p>
                     </div>
                   </div>
                   <div className="flex items-start" data-testid="contact-email">

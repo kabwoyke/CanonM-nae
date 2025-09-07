@@ -27,13 +27,13 @@ const galleryImages = [
     description: "Al fresco experiences"
   },
   {
-    src: "https://images.unsplash.com/photo-1559827260-dc66d52bef19?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&h=400",
+    src: "https://titossycleaning.co.ke/wp-content/uploads/2024/05/gardening-services-nairobi-Kenya.jpeg",
     alt: "Team building outdoor activities",
     title: "Team Events",
     description: "Corporate retreats"
   },
   {
-    src: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&h=400",
+    src: "https://bestcarecleaning.co.ke/wp-content/uploads/2023/08/Landscaping-Services-Fort-Worth-TX-1024x578-1.jpg",
     alt: "Children at playground",
     title: "Family Fun",
     description: "Kid-friendly activities"

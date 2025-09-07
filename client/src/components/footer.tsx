@@ -116,7 +116,7 @@ export default function Footer() {
               </p>
               <p className="text-primary-foreground/80 flex items-center" data-testid="footer-phone">
                 <i className="fas fa-phone mr-2"></i>
-                +254 700 123 456
+                +254 713 461 365
               </p>
               <p className="text-primary-foreground/80 flex items-center" data-testid="footer-email">
                 <i className="fas fa-envelope mr-2"></i>
@@ -132,7 +132,7 @@ export default function Footer() {
 
         <div className="border-t border-primary-foreground/20 mt-8 pt-8 text-center">
           <p className="text-primary-foreground/80" data-testid="footer-copyright">
-            © 2024 Canon Mînae Botanical Park. All rights reserved. | Privacy Policy | Terms of Service
+            © 2025 Canon Mînae Park. All rights reserved. | Privacy Policy | Terms of Service
           </p>
         </div>
       </div>
