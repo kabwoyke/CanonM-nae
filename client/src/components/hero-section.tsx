@@ -42,7 +42,7 @@ export default function HeroSection() {
           </Button>
           <Button 
             variant="outline"
-            className="border-2 border-white text-white hover:bg-white hover:text-primary px-8 py-3 rounded-lg font-semibold text-lg transition-all"
+            className="border-2 border-white text-white hover:bg-white/90 hover:text-primary bg-black/20 backdrop-blur-sm px-8 py-3 rounded-lg font-semibold text-lg transition-all"
             data-testid="button-virtual-tour"
           >
             <Play className="mr-2 h-5 w-5" />
