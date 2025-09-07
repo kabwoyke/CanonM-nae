@@ -26,32 +26,32 @@ export default function DiningSection() {
 
           <div>
             <h3 className="text-2xl font-bold text-card-foreground mb-6" data-testid="text-dining-subtitle">
-              Fresh, Local & Delicious
+              Authentic Kenyan Cuisine
             </h3>
             <p className="text-muted-foreground mb-8" data-testid="text-dining-intro">
-              Our garden restaurant features a carefully curated menu of local Kenyan cuisine and international favorites, all prepared with fresh, locally-sourced ingredients. Dine al fresco surrounded by the beauty of our botanical gardens.
+              Our garden restaurant celebrates Kenyan culinary traditions with fresh ugali, sukuma wiki, and perfectly grilled nyama choma. Experience authentic flavors while surrounded by the natural beauty of Thigio's botanical gardens.
             </p>
 
             <div className="space-y-4">
               <div className="flex items-start" data-testid="feature-kenyan-specialties">
                 <Utensils className="text-primary text-xl mr-4 mt-1 h-5 w-5" />
                 <div>
-                  <h4 className="font-semibold text-card-foreground">Local Kenyan Specialties</h4>
-                  <p className="text-muted-foreground">Authentic dishes featuring traditional flavors and cooking methods</p>
+                  <h4 className="font-semibold text-card-foreground">Traditional Kenyan Dishes</h4>
+                  <p className="text-muted-foreground">Nyama choma, ugali, sukuma wiki, githeri, and other authentic Kenyan favorites</p>
                 </div>
               </div>
               <div className="flex items-start" data-testid="feature-farm-to-table">
                 <Leaf className="text-primary text-xl mr-4 mt-1 h-5 w-5" />
                 <div>
-                  <h4 className="font-semibold text-card-foreground">Farm-to-Table Fresh</h4>
-                  <p className="text-muted-foreground">Ingredients sourced from local farms and our own garden herbs</p>
+                  <h4 className="font-semibold text-card-foreground">Local Thigio Ingredients</h4>
+                  <p className="text-muted-foreground">Fresh vegetables and herbs sourced from local Kikuyu farmers and our own gardens</p>
                 </div>
               </div>
               <div className="flex items-start" data-testid="feature-bbq-grills">
                 <Flame className="text-primary text-xl mr-4 mt-1 h-5 w-5" />
                 <div>
-                  <h4 className="font-semibold text-card-foreground">BBQ & Grills</h4>
-                  <p className="text-muted-foreground">Outdoor grilling facilities for groups and special events</p>
+                  <h4 className="font-semibold text-card-foreground">Traditional Jiko Grilling</h4>
+                  <p className="text-muted-foreground">Authentic charcoal grilling stations for the perfect nyama choma experience</p>
                 </div>
               </div>
             </div>

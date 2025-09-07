@@ -29,7 +29,7 @@ export default function HeroSection() {
           Experience Nature's Paradise at Canon Mînae
         </h1>
         <p className="text-lg md:text-xl mb-8 text-gray-200 max-w-2xl mx-auto" data-testid="text-hero-description">
-          Discover beautiful botanical gardens, thrilling adventures, and peaceful retreats in the heart of Thigio, Kenya. Your perfect escape into nature awaits.
+          Discover authentic Kenyan botanical gardens, thrilling motorbike racing, traditional nyama choma, and peaceful retreats in the scenic highlands of Thigio. Your perfect African adventure awaits.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <Button 
