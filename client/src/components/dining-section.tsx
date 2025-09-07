@@ -7,10 +7,10 @@ export default function DiningSection() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4" data-testid="text-dining-title">
-            Garden Restaurant & Dining
+            Executive Dining Experience
           </h2>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto" data-testid="text-dining-description">
-            Savor delicious local cuisine while surrounded by nature's beauty. Our restaurant offers fresh, locally-sourced meals in a stunning garden setting.
+            Indulge in premium cuisine at our exclusive resort restaurant. Our chef creates exceptional meals using the finest ingredients in an elegant private setting.
           </p>
         </div>
 
@@ -26,32 +26,32 @@ export default function DiningSection() {
 
           <div>
             <h3 className="text-2xl font-bold text-card-foreground mb-6" data-testid="text-dining-subtitle">
-              Authentic Kenyan Cuisine
+              Gourmet Cuisine & Premium Service
             </h3>
             <p className="text-muted-foreground mb-8" data-testid="text-dining-intro">
-              Our garden restaurant celebrates Kenyan culinary traditions with fresh ugali, sukuma wiki, and perfectly grilled nyama choma. Experience authentic flavors while surrounded by the natural beauty of Thigio's botanical gardens.
+              Our executive chef creates exceptional dining experiences featuring premium ingredients and refined presentation. Enjoy personalized service in our exclusive resort dining rooms and private terrace settings.
             </p>
 
             <div className="space-y-4">
               <div className="flex items-start" data-testid="feature-kenyan-specialties">
                 <Utensils className="text-primary text-xl mr-4 mt-1 h-5 w-5" />
                 <div>
-                  <h4 className="font-semibold text-card-foreground">Traditional Kenyan Dishes</h4>
-                  <p className="text-muted-foreground">Nyama choma, ugali, sukuma wiki, githeri, and other authentic Kenyan favorites</p>
+                  <h4 className="font-semibold text-card-foreground">Signature Menu</h4>
+                  <p className="text-muted-foreground">Curated selection of gourmet dishes with international cuisine and local specialties</p>
                 </div>
               </div>
               <div className="flex items-start" data-testid="feature-farm-to-table">
                 <Leaf className="text-primary text-xl mr-4 mt-1 h-5 w-5" />
                 <div>
-                  <h4 className="font-semibold text-card-foreground">Local Thigio Ingredients</h4>
-                  <p className="text-muted-foreground">Fresh vegetables and herbs sourced from local Kikuyu farmers and our own gardens</p>
+                  <h4 className="font-semibold text-card-foreground">Premium Ingredients</h4>
+                  <p className="text-muted-foreground">Finest quality ingredients sourced exclusively for our resort guests</p>
                 </div>
               </div>
               <div className="flex items-start" data-testid="feature-bbq-grills">
                 <Flame className="text-primary text-xl mr-4 mt-1 h-5 w-5" />
                 <div>
-                  <h4 className="font-semibold text-card-foreground">Traditional Jiko Grilling</h4>
-                  <p className="text-muted-foreground">Authentic charcoal grilling stations for the perfect nyama choma experience</p>
+                  <h4 className="font-semibold text-card-foreground">Private BBQ Service</h4>
+                  <p className="text-muted-foreground">Personal chef service for exclusive outdoor grilling experiences</p>
                 </div>
               </div>
             </div>
